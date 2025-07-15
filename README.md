@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zainab Saif 👩‍💻</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:008080&height=200&section=header&text=Cybersecurity%20Portfolio&fontSize=40&fontAlignY=40&desc=Welcome%20to%20My%20World%20of%20Security!&descAlignY=65&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:008080&height=200&section=header&text= My Portfolio&fontSize=40&fontAlignY=40&desc=Welcome%20to%20My%20World%20of%20Security!&descAlignY=65&descAlign=62" />
 </p>
 
 <p align="center">
